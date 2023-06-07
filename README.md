@@ -1,2 +1,2 @@
-# Zu_Cai_Test
-足彩测试软件 Foot ball lottery ticket test 
+本项目是使用vue3.2开发的足彩投注计算功能
+练手使用 赔钱概不负责
